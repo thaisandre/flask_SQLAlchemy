@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd70da2-d5ea-4bbf-a44e-2a32d11bd26d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/flask_SQLAlchemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flask_SQLAlchemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main/model/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/model/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/2b380d16aef5_initial_database_migration.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3cd70da2-d5ea-4bbf-a44e-2a32d11bd26d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +19,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="README" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="ini" value="1" />
           <entry key="mako" value="2" />
           <entry key="md" value="4" />
@@ -44,7 +30,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="Python" value="69" />
         </counts>
       </usages-collector>
@@ -128,7 +114,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/main/util/dto.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -136,6 +122,15 @@
               <folding>
                 <marker date="1548612144067" expanded="true" signature="61:66" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -210,6 +205,7 @@
         <option value="$PROJECT_DIR$/app/main/model/user.py" />
         <option value="$PROJECT_DIR$/app/main/service/user_service.py" />
         <option value="$PROJECT_DIR$/app/main/util/dto.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -232,30 +228,6 @@
             <path>
               <item name="flask_SQLAlchemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="flask_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask_SQLAlchemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask_SQLAlchemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask_SQLAlchemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flask_SQLAlchemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flask_SQLAlchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -580,6 +552,13 @@
           <folding>
             <marker date="1548612144067" expanded="true" signature="61:66" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
         </state>
       </provider>
     </entry>
