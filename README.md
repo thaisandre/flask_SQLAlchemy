@@ -10,4 +10,3 @@ API REST com Flask e SQLAlchemy
     
     aplica o script migration na base de dados
     $ python3 manage.py db upgrade
-    
